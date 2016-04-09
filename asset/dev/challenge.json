@@ -1,7 +1,34 @@
 {
-  "pages": [
-    "Cat",
-    "Dog",
-    "Mouse"
-  ]
+  "animals": {
+    "startLink": "David_Bowie",
+    "endLink": "Cat"
+  },
+  "art-music": {
+    "startLink": "Jack_White",
+    "endLink": "Violin"
+  },
+  "brands": {
+    "startLink": "Microsoft",
+    "endLink": "Apple"
+  },
+  "history": {
+    "startLink": "Invasion_of_Poland",
+    "endLink": "Natural_history"
+  },
+  "people": {
+    "startLink": "David_Bowie",
+    "endLink": "Ringo_Star"
+  },
+  "places": {
+    "startLink": "Germany",
+    "endLink": "Sardinia"
+  },
+  "random": {
+    "startLink": "Passport",
+    "endLink": "Lamp"
+  },
+  "science": {
+    "startLink": "Molecule",
+    "endLink": "Rocket"
+  }
 }
